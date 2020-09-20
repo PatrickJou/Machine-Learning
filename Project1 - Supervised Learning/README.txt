@@ -1,7 +1,8 @@
 ======================
 Code Repo
 ======================
-
+https://github.com/PatrickJou/Machine-Learning
+The assignment 1 source codes are in the folder "Project1 - Supervised Learning"
 
 ======================
 Environment
